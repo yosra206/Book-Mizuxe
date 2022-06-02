@@ -1,0 +1,17 @@
+.nav-link{
+    font-size: 18px; margin-right: 20px;
+}
+.navbar{
+    /* border-bottom:  solid 5px #3292A6; */
+    box-shadow: 0 2px 5px #3292A6;
+}
+
+header{
+    min-height: 85vh;
+     background-image:linear-gradient(rgba(50, 146, 166,.6) , rgba(50, 146, 166,.6)) , url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.author img{
+margin-top: -55px;
+}
